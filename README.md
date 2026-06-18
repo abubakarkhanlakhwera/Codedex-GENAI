@@ -1,36 +1,28 @@
-# Codedex Genai
+# Codedex Generative AI Practice
 
-Generative AI learning notebooks and Codedex course experiments.
+Generative AI course notebooks and tokenization experiments.
 
-## Overview
+## Purpose
 
-This is a AI/ML learning and prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository captures hands-on GenAI learning work, especially early concepts such as tokenization and notebook-based experimentation. It is useful as a record of foundational AI practice.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- GenAI learning exercises
+- Tokenization practice
+- Notebook-based exploration
 
-## Tech Stack
+## Stack
 
-- Primary language: Jupyter Notebook
-- Topics: generative-ai, jupyter-notebook, learning
-
-## Repository Structure
-
-- Top-level folders: codex_tokenization
-- Top-level files: .gitignore, README.md
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- Jupyter Notebook
+- Python
+- Generative AI
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add notes for each notebook
+- Document key takeaways
+- Add small examples of prompts/outputs where safe
 
 ## Author
 
